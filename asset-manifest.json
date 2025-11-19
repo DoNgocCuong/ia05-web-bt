@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ia05-web-bt/static/css/main.fe92da2a.css",
+    "main.js": "/ia05-web-bt/static/js/main.49ddcd47.js",
+    "index.html": "/ia05-web-bt/index.html",
+    "main.fe92da2a.css.map": "/ia05-web-bt/static/css/main.fe92da2a.css.map",
+    "main.49ddcd47.js.map": "/ia05-web-bt/static/js/main.49ddcd47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe92da2a.css",
+    "static/js/main.49ddcd47.js"
+  ]
+}
